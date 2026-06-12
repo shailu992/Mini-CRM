@@ -11,7 +11,8 @@ This project allows admin users to manage leads, add notes, update follow-ups, a
 🔗 https://future-fs-02-yyg2.onrender.com
 
 ## Demo Credentials
-Email: admin@gmail.com
+Email: admin@gmail.com 
+
 Password: admin123
 
 ---
